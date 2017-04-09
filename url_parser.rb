@@ -48,7 +48,7 @@ class UrlParser
       new_query.to_h
       # hash={"key" => "cat", "name" => "Tim"}
 #.to_h  only takes one key and overites
- the other
+ # the other
     end
 
     def fragment_id
